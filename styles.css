@@ -1,0 +1,13 @@
+* {
+  margin: none;
+  padding: none;
+  box-sizing: border-box;
+}
+
+img {
+  width: 200px;
+}
+
+h1 {
+  text-align: center;
+}
